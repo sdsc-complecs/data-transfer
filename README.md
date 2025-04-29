@@ -15,6 +15,10 @@ How to get the data you need for your research to and from high-performance comp
 wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 ```
 
+## Exercise X: Data Transfer Tools
+
+
+
 # About COMPLECS
 
 COMPLECS (COMPrehensive Learning for end-users to Effectively utilize
