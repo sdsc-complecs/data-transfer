@@ -19,6 +19,24 @@ wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 
 ### rclone - syncs your files to cloud storage
 
+```
+(rclone) mkandes@hardtack:~$ rclone config
+Current remotes:
+
+Name                 Type
+====                 ====
+jetstream2           swift
+
+e) Edit existing remote
+n) New remote
+d) Delete remote
+r) Rename remote
+c) Copy remote
+s) Set configuration password
+q) Quit config
+e/n/d/r/c/s/q>
+```
+
 
 
 # About COMPLECS
