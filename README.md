@@ -12,7 +12,7 @@ How to get the data you need for your research to and from high-performance comp
 
 #### Download a file
 ```
-wget https://raw.githubusercontent.com/sdsc-complecs/data-transfer/refs/heads/main/cifar-10.txt
+wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 ```
 
 # About COMPLECS
