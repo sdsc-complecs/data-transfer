@@ -1,7 +1,16 @@
 # data-transfer
 How to get the data you need for your research to and from high-performance computing systems.
 
-### Exercise 1: Downloading data from the internet
+## Exercise 1: Downloading data from the internet
+
+### Datasets:
+- [CIFAR datasets](https://www.cs.toronto.edu/~kriz/cifar.html) are labeled subsets of the 80 million tiny images dataset.
+-   
+
+[wget](https://en.wikipedia.org/wiki/Wget) is a simple command-line tool for downloading files from the Web.
+```
+wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+```
 
 # About COMPLECS
 
