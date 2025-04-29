@@ -4,7 +4,7 @@ How to get the data you need for your research to and from high-performance comp
 ## Exercise 1: Downloading data from the internet
 
 ### Datasets:
-- [CIFAR datasets](https://www.cs.toronto.edu/~kriz/cifar.html) are labeled subsets of the 80 million tiny images dataset.
+- [CIFAR datasets](https://www.cs.toronto.edu/~kriz/cifar.html) are labeled subsets of the 80 million tiny images dataset. The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 -   
 
 [wget](https://en.wikipedia.org/wiki/Wget) is a simple command-line tool for downloading files from the Web.
