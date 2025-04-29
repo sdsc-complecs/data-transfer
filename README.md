@@ -3,7 +3,7 @@ How to get the data you need for your research to and from high-performance comp
 
 ## Exercise 1: Downloading data from the internet
 
-- The [CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html) datasets are labeled subsets of the [80 million tiny images](https://en.wikipedia.org/wiki/80_Million_Tiny_Images) dataset. The [CIFAR-10](https://en.wikipedia.org/wiki/CIFAR-10) dataset is a collection of images that are commonly used to train machine learning and computer vision algorithms. TIt contains 60,000 32x32 color images in 10 different classes. The 10 different classes represent airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. There are 6,000 images of each class. There are 50,000 training images and 10,000 test images.
+- The [CIFAR-10](https://en.wikipedia.org/wiki/CIFAR-10) dataset is a collection of images that are commonly used to train machine learning and computer vision algorithms. It contains 60,000 32x32 color images in 10 different classes. The 10 different classes represent airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. There are 6,000 images of each class. There are 50,000 training images and 10,000 test images.
 -   
 
 ### wget - non-interactive network downloader
