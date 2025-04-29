@@ -10,3 +10,5 @@ Topics include parallel computing concepts, Linux tools and bash scripting,
 security, batch computing, how to get help, data management and interactive 
 computing. COMPLECS is supported by 
 [NSF award 2320934](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2320934).
+
+<img src="./images/NSF_Official_logo_Med_Res_600ppi.png" alt="drawing" width="150"/>
