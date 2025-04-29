@@ -1,7 +1,7 @@
 # data-transfer
 How to get the data you need for your research to and from high-performance computing systems.
 
-### Exercise 1: 
+### Exercise 1: Downloading data from the internet
 
 # About COMPLECS
 
