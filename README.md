@@ -100,6 +100,18 @@ Now, let's try to download a larger-sized file like the ImageNet-1K (ILSVRC2012)
 wget https://www.image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar
 ```
 
+```
+[etrain75@login02 ~]$ wget https://www.image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar
+--2025-04-30 06:58:32--  https://www.image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar
+Resolving www.image-net.org (www.image-net.org)... 171.64.68.16
+Connecting to www.image-net.org (www.image-net.org)|171.64.68.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6744924160 (6.3G) [application/x-tar]
+Saving to: ‘ILSVRC2012_img_val.tar’
+
+ILSVRC2012_img_val.  15%[==>                 ] 999.49M  16.4MB/s    eta 8m 23s
+```
+
 
 
 ## Exercise X: Data Transfer Tools
