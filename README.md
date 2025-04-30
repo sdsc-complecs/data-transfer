@@ -4,6 +4,8 @@ In this first part of our series on Data Management, we introduce you to the ess
 
 ## Presentation
 
+- [COMPLECES Data Managment Series Part I: Data Transfer](https://drive.google.com/file/d/1db7T5hUfQAFi-iNbg_aesvIlUZtwZF5i/view?usp=drive_link)
+
 ## Tutorials
   
   - [Tutorial 1: Downloading Data from the Internet](tutorials/downloading-data-from-the-internet.md)
