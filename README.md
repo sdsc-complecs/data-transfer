@@ -14,7 +14,7 @@ In this first part of our series on Data Management, we introduce you to the ess
 
 ## Tutorials
   
-  - [Tutorial 1: Downloading Data from the Internet](tutorials/downloading-data-from-the-internet.md)
+  - [Tutorial 1: Downloading Data from the Internet](tutorials/downloading-data-from-the-internet/downloading-data-from-the-internet.md)
   - [Tutorial 2: Data Integrity and Checksums](tutorials/data-integrity-and-checksums.md)
   - [Tutorial 3: Data Compression and File Archives]()
   - [Tutorial 4: Data Transfer Tools]()
