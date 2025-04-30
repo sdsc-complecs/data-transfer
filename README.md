@@ -1,5 +1,6 @@
 # data-transfer
-How to get the data you need for your research to and from high-performance computing systems.
+
+In this first part of our series on Data Management, we introduce you to the essential concepts and command-line tools you should learn when you first begin transferring data to and from HPC (or any remote) systems regularly. You will learn how to check the integrity of your data after a transfer has been completed, how to utilize file compression, and how to choose the right data transfer tool for different situations. We also introduce you to the common data storage and file systems your data may encounter, their advantages and limitations, and how their different characteristics may affect data transfer performance on one end or the other.
 
 ## Tutorial 1: Downloading Data from the Internet
 
