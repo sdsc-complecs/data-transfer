@@ -4,7 +4,7 @@ In this first part of our series on Data Management, we introduce you to the ess
 
 ## Presentation
 
-- [Presentation (pdf): Data Transfer](https://drive.google.com/file/d/1db7T5hUfQAFi-iNbg_aesvIlUZtwZF5i/view?usp=drive_link)
+- [Data Transfer](https://drive.google.com/file/d/1db7T5hUfQAFi-iNbg_aesvIlUZtwZF5i/view?usp=drive_link)
 
 ## Tutorials
   
