@@ -93,6 +93,15 @@ total 163M
 [etrain75@login02 ~]$
 ```
 
+Now, let's try to download a larger-sized file like the ImageNet-1K (ILSVRC2012) validation dataset.
+
+*Command:*
+```
+wget https://www.image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar
+```
+
+
+
 ## Exercise X: Data Transfer Tools
 
 
