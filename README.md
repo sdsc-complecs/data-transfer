@@ -48,6 +48,19 @@ Last login: Tue Apr 29 09:09:07 2025 from 208.58.212.11
 [etrain75@login02 ~]$
 ```
 
+Then create an interactive session.
+
+*Command:*
+```
+srun --partition=shared --account=gue998 --nodes=1 --ntasks-per-node=4 --mem=8G --time=00:30:00 --wait=0 --pty /bin/bash
+```
+
+*Ouput:*
+```
+[etrain75@login01 ~]$ srun --partition=shared --account=gue998 --nodes=1 --ntasks-per-node=4 --mem=8G --time=00:30:00 --wait=0 --pty /bin/bash
+[etrain75@exp-1-36 ~]$
+```
+
 ### Exercise 1: wget - non-interactive network downloader
 
 [wget](https://en.wikipedia.org/wiki/Wget) is a simple command-line tool for downloading files from the web. It supports [HTTP/S](https://en.wikipedia.org/wiki/HTTPS) and [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) protocols as well as file retrieval through [proxy servers](https://en.wikipedia.org/wiki/Proxy_server). It has been designed for robustness over slow or unstable network connections. If a download fails due to a network problem, you can setup the download to keep retrying, resuming the download from where you left off until the whole file has been retrieved.
