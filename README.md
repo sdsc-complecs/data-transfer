@@ -150,12 +150,20 @@ total 1.2G
 [etrain75@login02 ~]$
 ```
 
+#### Resume a download
 
+Now that the download has stopped, let's try and use `wget` to resume the download of the ImageNet-1K (ILSVRC2012) validation dataset by appending the `-c` or `--continue` option. 
 
+*Command:*
+```
+wget -c https://www.image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar
+```
 
+*Output:*
+```
+```
 
-
-## Exercise X: Data Transfer Tools
+## Tutorial 2: Data Transfer Tools
 
 
 
