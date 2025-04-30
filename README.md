@@ -59,6 +59,23 @@ Last login: Tue Apr 29 09:09:07 2025 from 208.58.212.11
 wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 ```
 
+*Output:*
+```
+[etrain75@login02 ~]$ wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+--2025-04-30 06:48:30--  https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+Resolving www.cs.toronto.edu (www.cs.toronto.edu)... 128.100.3.30
+Connecting to www.cs.toronto.edu (www.cs.toronto.edu)|128.100.3.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170498071 (163M) [application/x-gzip]
+Saving to: ‘cifar-10-python.tar.gz’
+
+cifar-10-python.tar 100%[===================>] 162.60M  36.9MB/s    in 4.9s    
+
+2025-04-30 06:48:47 (32.9 MB/s) - ‘cifar-10-python.tar.gz’ saved [170498071/170498071]
+
+[etrain75@login02 ~]$
+```
+
 ## Exercise X: Data Transfer Tools
 
 
