@@ -54,6 +54,8 @@ Last login: Tue Apr 29 09:09:07 2025 from 208.58.212.11
 
 #### Download a file
 
+Once you are logged into Expanse, go ahead and download a copy of the python-formatted version of the CIFAR-10 dataset using wget.
+
 *Command:*
 ```
 wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
