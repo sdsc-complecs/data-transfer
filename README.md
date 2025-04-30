@@ -117,7 +117,7 @@ Before the download reaches 1000M (1GB), stop the download with the `Ctrl` + `C`
 
 *Command:*
 ```
-Hold down the Ctrl key, then press C key on your keyboard while continuing to hold down Ctrl
+Hold down the Ctrl key on your keyboard, then press C key while continuing to hold down Ctrl
 ```
 
 *Output:*
