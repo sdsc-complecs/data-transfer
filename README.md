@@ -112,12 +112,12 @@ Saving to: ‘ILSVRC2012_img_val.tar’
 ILSVRC2012_img_val.  15%[==>                 ] 999.49M  16.4MB/s    eta 8m 23s
 ```
 
-Before the download reaches 1000M (1GB), stop the download with the `Ctrl` + `C` command to kill the wget process and return interactive access to your shell prompt.
+Before the download reaches 1000M (1GB), stop the download with the `Ctrl` + `C` command to kill the `wget` process and return interactive access to your shell prompt.
 
 
 *Command:*
 ```
-Hold down the **Ctrl** key, then press **C** key on your keyboard while continuing to hold down **Ctrl**
+Hold down the Ctrl key, then press C key on your keyboard while continuing to hold down Ctrl
 ```
 
 *Output:*
