@@ -1,5 +1,11 @@
 # Tutorial 1: Downloading Data from the Internet
 
+*"the Internet is not ... a big truck. It's a series of tubes." -- Theodore Fulton Stevens Sr.* [:notes:](https://www.youtube.com/watch?v=_cZC67wXUTs) [:microphone:](https://en.wikipedia.org/wiki/Series_of_tubes)
+
+<img src='../../images/submarinecablemap.png' width='95%' height='55%'/>
+
+[Image Credit: Submarine Cable Map](https://www.submarinecablemap.com/)
+
 The aim of this tutorial and its exercices are to introduce you to command-line tools that are useful for downloading data from the internet to your personal computer or an HPC system, and verifing the data is correct. There are two datasets we'll be working with as part of the exercies. 
 
 - The [CIFAR-10](https://en.wikipedia.org/wiki/CIFAR-10) dataset is a collection of images that are commonly used to train machine learning and computer vision algorithms. It contains 60K 32x32 color images in 10 different classes. The 10 different classes represent airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. There are 6K images of each class. You can find the original website from the creators of the dataset here: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
