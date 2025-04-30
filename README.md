@@ -80,6 +80,19 @@ cifar-10-python.tar 100%[===================>] 162.60M  36.9MB/s    in 4.9s
 
 After the download completes, go ahead and list the files in your HOME directory using the [`ls`](https://en.wikipedia.org/wiki/ls) command to double check out how much data we've downloaded.
 
+*Command:*
+```
+ls -lh
+```
+
+*Output:*
+```
+[etrain75@login02 ~]$ ls -lh
+total 163M
+-rw-r--r-- 1 etrain75 gue998 163M Jun  4  2009 cifar-10-python.tar.gz
+[etrain75@login02 ~]$
+```
+
 ## Exercise X: Data Transfer Tools
 
 
