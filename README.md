@@ -19,7 +19,8 @@ In this first part of our series on Data Management, we introduce you to the ess
   - [Tutorial 3: Data Compression and File Archives]()
   - [Tutorial 4: Data Transfer Tools]()
 
-## Additional References:
+## Additional References
+
 - https://github.com/sdsc/sdsc-summer-institute-2023/blob/main/3.2_data_management/tutorials/DOWNLOADING.md
 - https://github.com/sdsc/sdsc-summer-institute-2023/blob/main/3.2_data_management/tutorials/FILESYSTEMS.md
 
