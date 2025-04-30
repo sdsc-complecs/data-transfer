@@ -2,6 +2,10 @@
 
 In this first part of our series on Data Management, we introduce you to the essential concepts and command-line tools you should learn when you first begin transferring data to and from HPC (or any remote) systems regularly. You will learn how to check the integrity of your data after a transfer has been completed, how to utilize file compression, and how to choose the right data transfer tool for different situations. We also introduce you to the common data storage and file systems your data may encounter, their advantages and limitations, and how their different characteristics may affect data transfer performance on one end or the other.
 
+# Tutorials
+  
+  - [Downloading data from the internet](tutorials/downloading-data-from-the-internet.md)
+
 ## Tutorial 1: Downloading Data from the Internet
 
 The aim of this tutorial and its exercices is to introduce you to command-line tools that are useful for downloading data from the internet to your personal computer or an HPC system, and verifing the data is correct. There are two datasets we'll be working with as part of these exercies. 
