@@ -35,4 +35,4 @@ and interactive computing. COMPLECS is supported by
 
 <img src="./images/NSF_Official_logo_Med_Res_600ppi.png" alt="drawing" width="150"/>
 
-<img width="640" alt="NSF_Official_logo_High_Res_1200ppi.jpeg" src="https://nsf.widen.net/content/txvhzmsofh/jpeg/NSF_Official_logo_High_Res_1200ppi.jpeg?w=640&keep=c&crop=yes&quality=80&x.portal_shortcode_generated=dnmqqhzz&x.collection_sharename=wc3fwkos&x.app=portals">
+<img width="640" alt="NSF_Official_logo_High_Res_1200ppi.jpeg" src="https://nsf.widen.net/content/txvhzmsofh/jpeg/NSF_Official_logo_High_Res_1200ppi.jpeg?w=150&keep=c&crop=yes&quality=80&x.portal_shortcode_generated=dnmqqhzz&x.collection_sharename=wc3fwkos&x.app=portals">
