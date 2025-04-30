@@ -134,12 +134,20 @@ ILSVRC2012_img_val.  15%[==>                 ] 999.49M  16.4MB/s    eta 8m 23s ^
 [etrain75@login02 ~]$
 ```
 
-
-and again double check gow much data we've downloaded to your HOME directory.
+Then check again much data we've downloaded to your HOME directory.
 
 *Command:*
 ```
 ls -lh
+```
+
+*Output:*
+```
+[etrain75@login02 ~]$ ls -lh
+total 1.2G
+-rw-r--r-- 1 etrain75 gue998  163M Jun  4  2009 cifar-10-python.tar.gz
+-rw-r--r-- 1 etrain75 gue998 1001M Apr 30 07:00 ILSVRC2012_img_val.tar
+[etrain75@login02 ~]$
 ```
 
 
