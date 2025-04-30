@@ -11,6 +11,8 @@ How to get the data you need for your research to and from high-performance comp
 [wget](https://en.wikipedia.org/wiki/Wget) is a simple command-line tool for downloading files from the web. It supports [HTTP/S](https://en.wikipedia.org/wiki/HTTPS) and [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) protocols as well as file retrieval through [proxy servers](https://en.wikipedia.org/wiki/Proxy_server). It has been designed for robustness over slow or unstable network connections. If a download fails due to a network problem, you can setup the download to keep retrying, resuming the download from where you left off until the whole file has been retrieved.
 
 #### Download a file
+
+*Command:*
 ```
 wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 ```
