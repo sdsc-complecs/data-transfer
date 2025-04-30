@@ -26,11 +26,12 @@ In this first part of our series on Data Management, we introduce you to the ess
 ## About COMPLECS
 
 COMPLECS (COMPrehensive Learning for end-users to Effectively utilize
-CyberinfraStructure) is a new [SDSC](https://www.sdsc.edu) program where 
-training will cover non-programming skills needed to effectively use 
-supercomputers. Topics include parallel computing concepts, Linux tools and
-bash scripting, security, batch computing, how to get help, data management
-and interactive computing. COMPLECS is supported by 
-[NSF award 2320934](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2320934).
+CyberinfraStructure) is a new training program offered by SDSC that covers
+the most important non-programming concepts and skills that you need to
+effectively use supercomputers. Topics include parallel computing concepts,
+Linux tools and bash scripting, security, batch and interactive computing,
+how to get help, and data management.
+
+COMPLECS is supported by [NSF CISE/OAC-2320934](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2320934)
 
 <img width="150" alt="NSF_Official_logo_High_Res_1200ppi.jpeg" src="https://nsf.widen.net/content/txvhzmsofh/jpeg/NSF_Official_logo_High_Res_1200ppi.jpeg?w=150&keep=c&crop=yes&quality=80&x.portal_shortcode_generated=dnmqqhzz&x.collection_sharename=wc3fwkos&x.app=portals">
