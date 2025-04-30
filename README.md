@@ -244,6 +244,42 @@ Report bugs to https://github.com/aria2/aria2/issues
 Visit https://aria2.github.io/
 [etrain75@login02 ~]$
 ```
+With `aria2c` now ready for use, go ahead and attempt to resume your download of the ImageNet-1K (ILSVRC2012) validation dataset with the `-c` or `--continue` command-line option, but using multiple connections with the `-x[N]` or `--max-connection-per-server=N` command-line option. 
+
+*Command:*
+```
+aria2c -c -x4 https://www.image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar
+```
+
+*Output:*
+```
+[etrain75@login02 ~]$ aria2c -c -x4 https://www.image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar
+
+04/30 07:42:42 [NOTICE] Downloading 1 item(s)
+ *** Download Progress Summary as of Wed Apr 30 07:43:43 2025 ***              
+===============================================================================
+[#7fb6f2 5.2GiB/6.2GiB(83%) CN:4 DL:22MiB ETA:47s]
+FILE: /home/etrain75/ILSVRC2012_img_val.tar
+-------------------------------------------------------------------------------
+
+ *** Download Progress Summary as of Wed Apr 30 07:44:43 2025 ***              
+===============================================================================
+[#7fb6f2 6.2GiB/6.2GiB(99%) CN:3 DL:1.5MiB ETA:35s]
+FILE: /home/etrain75/ILSVRC2012_img_val.tar
+-------------------------------------------------------------------------------
+
+[#7fb6f2 6.2GiB/6.2GiB(99%) CN:1 DL:824KiB ETA:7s]                             
+04/30 07:45:16 [NOTICE] Download complete: /home/etrain75/ILSVRC2012_img_val.tar
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+7fb6f2|OK  |    19MiB/s|/home/etrain75/ILSVRC2012_img_val.tar
+
+Status Legend:
+(OK):download completed.
+[etrain75@login02 ~]$
+```
 
 
 ## Tutorial 2: Data Integrity and Checksums
