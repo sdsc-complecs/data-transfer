@@ -26,7 +26,8 @@ In this first part of our series on Data Management, we introduce you to the ess
 ## About COMPLECS
 
 COMPLECS (COMPrehensive Learning for end-users to Effectively utilize
-CyberinfraStructure) is a new training program offered by SDSC that covers
+CyberinfraStructure) is a new training program offered by the 
+[San Diego Supercomputer Center (SDSC)](https://www.sdsc.edu) that covers
 the most important non-programming concepts and skills that you need to
 effectively use supercomputers. Topics include parallel computing concepts,
 Linux tools and bash scripting, security, batch and interactive computing,
