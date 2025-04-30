@@ -33,6 +33,4 @@ bash scripting, security, batch computing, how to get help, data management
 and interactive computing. COMPLECS is supported by 
 [NSF award 2320934](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2320934).
 
-<img src="./images/NSF_Official_logo_Med_Res_600ppi.png" alt="drawing" width="150"/>
-
 <img width="150" alt="NSF_Official_logo_High_Res_1200ppi.jpeg" src="https://nsf.widen.net/content/txvhzmsofh/jpeg/NSF_Official_logo_High_Res_1200ppi.jpeg?w=150&keep=c&crop=yes&quality=80&x.portal_shortcode_generated=dnmqqhzz&x.collection_sharename=wc3fwkos&x.app=portals">
