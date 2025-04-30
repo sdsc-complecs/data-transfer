@@ -78,7 +78,7 @@ cifar-10-python.tar 100%[===================>] 162.60M  36.9MB/s    in 4.9s
 [etrain75@login02 ~]$
 ```
 
-After the download completes, go ahead and list the files in your HOME directory using the [`ls`](https://en.wikipedia.org/wiki/ls) command to double check out how much data we've downloaded.
+After the download completes, go ahead and list the files in your HOME directory using the [`ls`](https://en.wikipedia.org/wiki/ls) command to check out how much data we've downloaded.
 
 *Command:*
 ```
@@ -111,6 +111,39 @@ Saving to: ‘ILSVRC2012_img_val.tar’
 
 ILSVRC2012_img_val.  15%[==>                 ] 999.49M  16.4MB/s    eta 8m 23s
 ```
+
+Before the download reaches 1000M (1GB), stop the download with the `Ctrl` + `C` command to kill the wget process and return interactive access to your shell prompt.
+
+
+*Command:*
+```
+Hold down the **Ctrl** key, then press **C** key on your keyboard while continuing to hold down **Ctrl**
+```
+
+*Output:*
+```
+[etrain75@login02 ~]$ wget https://www.image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar
+--2025-04-30 06:58:32--  https://www.image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar
+Resolving www.image-net.org (www.image-net.org)... 171.64.68.16
+Connecting to www.image-net.org (www.image-net.org)|171.64.68.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6744924160 (6.3G) [application/x-tar]
+Saving to: ‘ILSVRC2012_img_val.tar’
+
+ILSVRC2012_img_val.  15%[==>                 ] 999.49M  16.4MB/s    eta 8m 23s ^C
+[etrain75@login02 ~]$
+```
+
+
+and again double check gow much data we've downloaded to your HOME directory.
+
+*Command:*
+```
+ls -lh
+```
+
+
+
 
 
 
